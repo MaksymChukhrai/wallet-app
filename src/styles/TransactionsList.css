@@ -1,0 +1,75 @@
+.transactions-list-container {
+  max-width: 428px;
+  min-width: 320px;
+  width: 100%;
+  margin: 0 auto;
+  min-height: 100vh;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', sans-serif;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 16px;
+  border-bottom: 1px solid #f3f4f6;
+}
+
+.time {
+  font-size: 15px;
+  font-weight: 600;
+  color: #111827;
+}
+
+.status-icons {
+  display: flex;
+  gap: 6px;
+  font-size: 14px;
+  color: #111827;
+}
+
+.content {
+  padding: 16px;
+}
+
+.top-section {
+  margin-bottom: 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 6px;
+}
+
+.card-balance-column-container {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  flex: 1.2;
+  min-width: 0; /* Для правильного расчета flex */
+}
+
+.no-payment-due {
+  flex: 1;
+  min-width: 0; /* Для правильного расчета flex */
+}
+
+.transactions-section {
+
+  overflow: hidden;
+
+}
+
+.section-title {
+  font-size: 18px;
+  font-weight: 700;
+  color: #111827;
+
+  margin: 0;
+ 
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.transactions-list {
+
+   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+   border-radius: 12px;
+}

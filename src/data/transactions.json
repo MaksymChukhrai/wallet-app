@@ -1,0 +1,132 @@
+{
+  "cardBalance": {
+    "limit": 1500,
+    "balance": 17.30,
+    "available": 1482.70
+  },
+  "transactions": [
+    {
+      "id": "1",
+      "type": "Credit",
+      "amount": 14.06,
+      "name": "Apple",
+      "description": "RBC Bank Debit Card",
+      "date": "2024-01-15T10:30:00Z",
+      "pending": true,
+      "authorizedUser": "Diana",
+      "icon": "fa-apple",
+      "iconBgColor": "#333333",
+      "status": "Pending",
+      "cardUsed": "RBC Bank Debit Card"
+    },
+    {
+      "id": "2",
+      "type": "Payment",
+      "amount": 174.00,
+      "name": "Payment",
+      "description": "From JPMorgan Chase Bank Natio...",
+      "date": "2024-01-14T14:20:00Z",
+      "icon": "fa-building-columns",
+      "iconBgColor": "#F59E0B",
+      "status": "Approved",
+      "cardUsed": "JPMorgan Chase Bank"
+    },
+    {
+      "id": "3",
+      "type": "Credit",
+      "amount": 3.24,
+      "name": "Apple",
+      "description": "Card Number Used",
+      "date": "2024-01-13T09:15:00Z",
+      "authorizedUser": "Diana",
+      "icon": "fa-apple",
+      "iconBgColor": "#333333",
+      "status": "Approved",
+      "cardUsed": "Card Number Used"
+    },
+    {
+      "id": "4",
+      "type": "Payment",
+      "amount": 899.71,
+      "name": "Payment",
+      "description": "From JPMorgan Chase Bank Natio...",
+      "date": "2024-01-12T16:45:00Z",
+      "icon": "fa-building-columns",
+      "iconBgColor": "#F59E0B",
+      "status": "Approved",
+      "cardUsed": "JPMorgan Chase Bank"
+    },
+    {
+      "id": "5",
+      "type": "Payment",
+      "amount": 873.58,
+      "name": "Payment",
+      "description": "From JPMorgan Chase Bank Natio...",
+      "date": "2024-01-11T11:30:00Z",
+      "icon": "fa-building-columns",
+      "iconBgColor": "#F59E0B",
+      "status": "Approved",
+      "cardUsed": "JPMorgan Chase Bank"
+    },
+    {
+      "id": "6",
+      "type": "Credit",
+      "amount": 21.61,
+      "name": "IKEA",
+      "description": "Round Rock, TX",
+      "date": "2024-01-02T13:20:00Z",
+      "icon": "fa-store",
+      "iconBgColor": "#0051BA",
+      "status": "Approved",
+      "cardUsed": "HSZ Bank Debit Card"
+    },
+    {
+      "id": "7",
+      "type": "Credit",
+      "amount": 73.58,
+      "name": "Target",
+      "description": "Card Number Used",
+      "date": "2023-12-28T10:00:00Z",
+      "icon": "fa-bullseye",
+      "iconBgColor": "#CC0000",
+      "status": "Approved",
+      "cardUsed": "Card Number Used"
+    },
+    {
+      "id": "8",
+      "type": "Credit",
+      "amount": 7.50,
+      "name": "Airalo",
+      "description": "Online Purchase",
+      "date": "2023-05-26T12:47:00Z",
+      "icon": "fa-globe",
+      "iconBgColor": "#6B21A8",
+      "status": "Approved",
+      "cardUsed": "RBC Bank Debit Card"
+    },
+    {
+      "id": "9",
+      "type": "Payment",
+      "amount": 500.00,
+      "name": "Payment",
+      "description": "From Wells Fargo Bank",
+      "date": "2023-05-20T09:00:00Z",
+      "icon": "fa-building-columns",
+      "iconBgColor": "#F59E0B",
+      "status": "Approved",
+      "cardUsed": "Wells Fargo Bank"
+    },
+    {
+      "id": "10",
+      "type": "Credit",
+      "amount": 125.99,
+      "name": "Amazon",
+      "description": "Online Order #12345",
+      "date": "2023-05-18T15:30:00Z",
+      "icon": "fa-amazon",
+      "iconBgColor": "#FF9900",
+      "status": "Approved",
+      "cardUsed": "Card Number Used"
+    }
+  ]
+}

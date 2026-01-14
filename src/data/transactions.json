@@ -10,14 +10,14 @@
       "type": "Credit",
       "amount": 14.06,
       "name": "Apple",
-      "description": "RBC Bank Debit Card",
+      "description": "Card Number Used",
       "date": "2024-01-15T10:30:00Z",
       "pending": true,
       "authorizedUser": "Diana",
-      "icon": "fa-apple",
+      "icon": "fa-brands fa-apple",
       "iconBgColor": "#333333",
       "status": "Pending",
-      "cardUsed": "RBC Bank Debit Card"
+      "cardUsed": "Card Number Used"
     },
     {
       "id": "2",
@@ -39,7 +39,7 @@
       "description": "Card Number Used",
       "date": "2024-01-13T09:15:00Z",
       "authorizedUser": "Diana",
-      "icon": "fa-apple",
+      "icon": "fa-brands fa-apple",
       "iconBgColor": "#333333",
       "status": "Approved",
       "cardUsed": "Card Number Used"
@@ -123,7 +123,7 @@
       "name": "Amazon",
       "description": "Online Order #12345",
       "date": "2023-05-18T15:30:00Z",
-      "icon": "fa-amazon",
+      "icon": "fa-brands fa-amazon",
       "iconBgColor": "#FF9900",
       "status": "Approved",
       "cardUsed": "Card Number Used"
